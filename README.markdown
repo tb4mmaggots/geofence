@@ -48,8 +48,8 @@ Here's a compatibility table for the versions of both applications:
 [2.2.x]: http://ares.boundlessgeo.com/geofence/2.2.x/geofence-2.2.x-latest-war.zip
 [2.8_probe]:    http://ares.boundlessgeo.com/geoserver/2.8.x/community-latest/geoserver-2.8-SNAPSHOT-geofence-plugin.zip
 [2.8_embedded]: http://ares.boundlessgeo.com/geoserver/2.8.x/community-latest/geoserver-2.8-SNAPSHOT-geofence-server-plugin.zip
-[2.9_probe]:    http://ares.boundlessgeo.com/geoserver/master/community-latest/geoserver-2.9-SNAPSHOT-geofence-plugin.zip
-[2.9_embedded]: http://ares.boundlessgeo.com/geoserver/master/community-latest/geoserver-2.9-SNAPSHOT-geofence-server-plugin.zip
+[2.9_probe]:    http://ares.boundlessgeo.com/geoserver/2.9.x/community-latest/geoserver-2.9-SNAPSHOT-geofence-plugin.zip
+[2.9_embedded]: http://ares.boundlessgeo.com/geoserver/2.9.x/community-latest/geoserver-2.9-SNAPSHOT-geofence-server-plugin.zip
 [2.7]: http://ares.boundlessgeo.com/geoserver/2.7.x/community-latest/geoserver-2.7-SNAPSHOT-geofence-plugin.zip
 [2.6]: http://ares.boundlessgeo.com/geoserver/2.6.x/community-latest/geoserver-2.6-SNAPSHOT-geofence-plugin.zip
 
